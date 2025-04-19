@@ -108,6 +108,15 @@ sudo systemctl enable httpd</code></pre>
 <p>También se puede considerar cerrar procesos innecesarios o ampliar la instancia si el uso es constante y elevado.</p>
 
 
+<h2>Configurando la instancia 2</h2>
+
+![image](https://github.com/user-attachments/assets/7f9cd42b-4cba-4bb3-bf68-5aac4011cf25)
+
+![image](https://github.com/user-attachments/assets/97548229-62fd-4429-ac0b-216877d5f267)
+
+![image](https://github.com/user-attachments/assets/43cb2cba-8491-4bc2-86a7-a37479213222)
+
+
 
 
 
